@@ -1,7 +1,6 @@
 package view;
 
 import javax.swing.*;
-import java.awt.*;
 
 /**
  * Primary window class for the application, this keeps track of a single
